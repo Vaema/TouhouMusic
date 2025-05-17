@@ -1,6 +1,6 @@
 displayName = Touhou Music Replacements
 author = Vaema
-version = 1.0
+version = 1.0.1
 homepage = https://discord.gg/4m4Xk6UeGW
 
 hideCode = false
