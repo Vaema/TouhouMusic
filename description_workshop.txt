@@ -14,7 +14,7 @@ ZUN:
 [/list]
 
 Concealed the Conclusion (Fan-game):
-[/list]
+[list]
 [*] The Legend of KAGE (King Slime)
 [*] Plastic Mind (Skeletron)
 [*] Night Falls ~ Evening Star (Lunatic Cultist)
