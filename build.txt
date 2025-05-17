@@ -1,0 +1,10 @@
+displayName = Touhou Music Replacements
+author = Vaema
+version = 1.0
+homepage = https://discord.gg/4m4Xk6UeGW
+
+hideCode = false
+hideResources = false
+includeSource = true
+
+buildIgnore = .vs\*, Properties\*, *.csproj, *.user, obj\*, bin\*, *.config, .git\*, .github\*, README.md, .editorconfig, .gitignore, .gitattributes
