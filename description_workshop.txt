@@ -1,1 +1,29 @@
-This description will show up on the steam page, check out https://steamcommunity.com/comment/Guide/formattinghelp.
+[h1]Touhou Music Replacements[/h1]
+
+[h2]Information[/h2]
+
+Touhou Music Replacements is a mod that changes various vanilla boss music with Touhou (and some Touhou fan-game) music.
+This mod is not done yet. There are some more music that I (Vaema) am planning on implementing.
+Music boxes are probably going to be implemented soon.
+
+[h2]Music Used[/h2]
+
+ZUN:
+[list]
+[*] Gensokyo, Past and Present ~ Flower Land (Empress of Light)
+[/list]
+
+Concealed the Conclusion (Fan-game):
+[/list]
+[*] The Legend of KAGE (King Slime)
+[*] Plastic Mind (Skeletron)
+[*] Night Falls ~ Evening Star (Lunatic Cultist)
+[*] G Free ~ Final Dream (Moon Lord)
+[/list]
+
+[h2]Credits[/h2]
+ZUN and the Touhou: Concealed the Conclusion Team.
+
+[h2]Disclaimer[/h2]
+All of the music is NOT mine.
+All rights are given to the authors. I am not using ANY of the music for commercial purposes.
