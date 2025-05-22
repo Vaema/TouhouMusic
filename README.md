@@ -1,14 +1,15 @@
 # Touhou Music Replacements (Terraria Mod)
 
 ## Information
-Touhou Music Replacements is a mod that changes various vanilla boss music with Touhou (and some Touhou fan-game) music.
-This mod is not done yet. There are some more music that I (Vaema) am planning on implementing.
-Music boxes are probably going to be implemented soon.
+Touhou Music Replacements is a mod that changes various vanilla boss music with Touhou (and some Touhou fan-made) music.
+NOTE: This mod is not done yet.
 
 ## Music Used
-
 ZUN:
-- Gensokyo, Past and Present ~ Flower Land (Empress of Light)
+- Gensokyo, Past and Present ~ Flower Land (Plantera)
+
+FD:
+- Faint Dream ~ Inanimate Dream Remastered v2 (Empress of Light)
 
 Concealed the Conclusion (Fan-game):
 - The Legend of KAGE (King Slime)
